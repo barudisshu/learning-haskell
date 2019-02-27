@@ -22,7 +22,7 @@ description:         Please see the README on GitHub at <https://github.com/baru
 dependencies:
 - base >= 4.7 && < 5
 - mwc-random >= 0.14
-- quickcheck >= 2.11.1 && < 2.12
+- QuickCheck >= 2.11.1
 
 library:
   source-dirs: src
