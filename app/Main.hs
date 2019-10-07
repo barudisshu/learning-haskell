@@ -1,2 +1,6 @@
+module Main where
 
-main = putStrLn "Hello, World!"
+import Lib
+
+main :: IO ()
+main = someFunc

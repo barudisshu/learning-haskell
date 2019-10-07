@@ -1,10 +1,10 @@
 name:                learning-haskell
 version:             0.1.0.0
-github:              "barudisshu/learning-haskell"
+github:              "githubuser/learning-haskell"
 license:             BSD3
-author:              "Galudisu"
-maintainer:          "galudisu@gmail.com"
-copyright:           "Apache"
+author:              "Author name here"
+maintainer:          "example@example.com"
+copyright:           "2019 Author name here"
 
 extra-source-files:
 - README.md
@@ -17,12 +17,10 @@ extra-source-files:
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/barudisshu/learning-haskell#readme>
+description:         Please see the README on GitHub at <https://github.com/githubuser/learning-haskell#readme>
 
 dependencies:
 - base >= 4.7 && < 5
-- mwc-random >= 0.14
-- QuickCheck >= 2.11.1
 
 library:
   source-dirs: src

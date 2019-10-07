@@ -1,3 +1,10 @@
 .stack-work/
 learning-haskell.cabal
 *~
+*.hi
+*.o
+.idea
+stack.yaml.lock
+learing-haskell.cabal
+.vscode
+
